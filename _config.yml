@@ -1,0 +1,7 @@
+title: Toonlavender
+description: A personal blog/art stuff written in Markdown
+url: "https://toonlavenderv2.github.io"
+theme: minima
+
+
+markdown: kramdown
